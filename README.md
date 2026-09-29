@@ -1,4 +1,4 @@
-# Alice_first_repo
+# my-first-folder
 
 ## My goal
 
